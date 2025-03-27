@@ -35,6 +35,6 @@ Ever wondered how Ethereum transactions work under the hood? This tool lets you 
 - Perfect for learning how Ethereum and ERC-20 tokens work.
 - Real-time blockchain interaction at your fingertips.
 
-**Note**: For educational use only—handle with care! A small ETH balance (e.g., 0.01 ETH) is needed for gas fees. Double-check addresses to keep your funds safe.
+**Note**: For educational use only handle with care! A small ETH balance (e.g., 0.01 ETH) is needed for gas fees. Double-check addresses to keep your funds safe.
 
 Download now and start exploring the Ethereum blockchain today! Contributions welcome 🌈.
