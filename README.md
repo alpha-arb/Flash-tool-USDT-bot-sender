@@ -15,8 +15,7 @@ Windows CLI tool for sending Ethereum tokens (USDT, USDC, DAI) using custom priv
 ## 📁 Installation
 
 1. Clone the repo or download the EXE version.
-2. Run the executable on Windows (`Flashing tool.exe`).
-3. Follow the on-screen menu to:
+2. Follow the on-screen menu to:
    - Enter a private key
    - Choose a token and recipient
    - Send via proxy with flash tool to Ethereum blockchain get tx hash
