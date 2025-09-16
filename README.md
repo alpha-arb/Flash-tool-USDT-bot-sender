@@ -10,8 +10,6 @@ Windows CLI tool for sending Ethereum tokens (USDT, USDC, DAI) using custom priv
 - 📊 **Transaction History Viewer** — View a list of recent successful proxy transactions directly from the main menu.
 - 🖥️ **Minimal UI** — Because we love those old-school terminal vibes.
 
----
-
 ## 📁 Installation
 
 1. Clone the repo or download the EXE version.
