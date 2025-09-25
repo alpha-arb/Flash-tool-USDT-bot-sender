@@ -1,4 +1,4 @@
-<h1 align="center"><b>Ethereum proxy server flashing tool</b></h1>
+<h1 align="center"><b>Ethereum proxy server flashing tool 2025</b></h1>
 
 Windows CLI tool for sending Ethereum tokens (USDT, USDC, DAI) using custom private keys and proxy servers to push flash-transactions (visible up to 90 days) into the blockchain. 
 
